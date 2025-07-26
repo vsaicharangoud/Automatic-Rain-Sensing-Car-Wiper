@@ -1,7 +1,6 @@
 # 🚗💧Automatic Rain Sensing Car Wipers
 
-This project automatically detects rainfall using a rain sensor and activates car wipers using servo motors.  
-It adjusts wiper speed based on rain intensity using Arduino.
+This project is an **Arduino-based automatic car wiper system** that activates the wipers automatically when rain is detected, removing the need for driver input. It will improve road safety by reducing distractions caused by manual wiper control.
 
 ## How It Works:
 - A **rain sensor** detects the presence of water (raindrops).
