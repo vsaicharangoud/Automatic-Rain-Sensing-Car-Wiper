@@ -2,7 +2,7 @@
 
 This project is an **Arduino-based automatic car wiper system** that activates the wipers automatically when rain is detected, removing the need for driver input. It will improve road safety by reducing distractions caused by manual wiper control.
 
-## How It Works:
+## How It Works
 - A **rain sensor** detects the presence of water (raindrops).
 - When rain is detected, the **Arduino UNO** triggers a **servo motor**, simulating the wiper movement.
 - Once the rain stops, the system turns off the wiper automatically.
